@@ -1,0 +1,23 @@
+# MATLAB/Simulink build artifacts
+slprj/
+sim/
+*.slxc
+*.asv
+*.autosave
+*.m~ 
+*.mat
+*.mex*
+*.log
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code or JetBrains IDEs
+.vscode/
+.idea/
+
+# Optional: Ignore image cache or temp diagrams
+*.png
+*.svg
